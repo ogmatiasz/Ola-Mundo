@@ -1,2 +1,4 @@
-# OlaMundo
-Primeiro repositorio versionado/guanabara
+# Olá, Mundo!
+Primeiro repositório versionado/guanabara
+
+Repositório criado na aula do gustavo Guanabara!
